@@ -7,6 +7,7 @@
   * [Exercise 2: Count Characters in a File](#exercise-2-count-characters-in-a-file)
   * [Exercise 3: Write a Message to a File](#exercise-3-write-a-message-to-a-file)
 * [Provided Text Files](#provided-text-files)
+* [Solution](#solution)
 * [License](#license)
 
 ## Introduction
@@ -35,6 +36,9 @@ You can use the following sample text files for practice:
 - `input.txt`
 - `message.txt`
 - `output.txt`
+
+## Solution
+You can find the solution in the `Main` File.
 
 ## License
 You can copy and paste this into your GitHub repository
